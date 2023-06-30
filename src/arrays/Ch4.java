@@ -17,7 +17,7 @@ public class Ch4 {
 			temp *=arr[i];
 		}
 		
-		// Initializing temp to 1 for product on righ side
+		// Initializing temp to 1 for product on right side
 		temp=1;
 		
 		// Product of elements on right side excluding arr[i]
